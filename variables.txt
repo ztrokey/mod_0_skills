@@ -1,0 +1,9 @@
+movie = "Bee Movie"
+is_entertaining = true
+movie = "Toy Story"
+num_4 = 15
+num_6 = 24
+product = num_6 * num_4
+favorite_foods = ["pizza", "tacos", "hamburgers"]
+favorite_foods.shift()
+movie.length
