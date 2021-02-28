@@ -14,7 +14,7 @@ AirPlane
 1. add_company (adds new company to company_names)
 2. subtract_passenger (subtracts 1 from passenger_count)
 3. running_late (updates on_time to false)
-5. break_engine (subtracts 1 from number_of_engines)
+4. break_engine (subtracts 1 from number_of_engines)
 
 
 #
