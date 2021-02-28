@@ -1,16 +1,16 @@
 TerminalC
 
-people_count = 99
-seats = 450
-number_of_gates_open = 12
-restaurants = ["Taco Bell", "McDonalds", "Burger King"]
+1. people_count = 99
+2. seats = 450
+3. number_of_gates_open = 12
+4. restaurants = ["Taco Bell", "McDonalds", "Burger King"]
 
    * methods
 
-people_count = 100
-seats = 449
-number_of_gates_open = 11
-restaurants = ["Taco Bell", "McDonalds", "Burger King", "KFC"]
+1. people_count = 100
+2. seats = 449
+3. number_of_gates_open = 11
+4. restaurants = ["Taco Bell", "McDonalds", "Burger King", "KFC"]
 
 
 
